@@ -1,3 +1,6 @@
+[Pa]ckages/
+[Pr]ojectSettings/
+[Us]erSettings/
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -29,6 +32,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.mdb
+*.meta
 *.opendb
 *.VC.db
 
